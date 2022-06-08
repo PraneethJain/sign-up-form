@@ -63,3 +63,15 @@ input:focus {
   border: 1px solid #719ECE;
   box-shadow: 0 0 10px #719ECE;
 }
+
+button {
+  background-color: rgb(89, 109, 72);
+  color: white;
+  font-size: medium;
+  font-weight: 600;
+  text-align: center;
+  border: 0px;
+  margin: 25px 50px 50px 50px;
+  padding: 15px 40px;
+  border-radius: 10px;
+}
