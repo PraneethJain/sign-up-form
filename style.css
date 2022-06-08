@@ -74,6 +74,15 @@ button {
   margin: 25px 50px 50px 50px;
   padding: 15px 40px;
   border-radius: 10px;
+  transition-duration: 100ms;
+}
+
+button:hover {
+  background-color: rgb(77, 92, 63);
+}
+
+button:active {
+  background-color:rgb(49, 55, 43)
 }
 
 .log_in {
