@@ -1,4 +1,23 @@
 :root {
-  background-color: black;
+  background-color: #1B3A4B;
   font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left {
+  flex: 3;
+}
+
+.right {
+  flex: 5;
+}
+
+div {
+  border: 1px solid white;
 }
