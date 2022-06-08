@@ -75,3 +75,13 @@ button {
   padding: 15px 40px;
   border-radius: 10px;
 }
+
+.log_in {
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.log_in a {
+  color: rgb(89, 109, 72);
+  text-decoration: none;
+}
